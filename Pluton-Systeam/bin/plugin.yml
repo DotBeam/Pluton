@@ -1,0 +1,8 @@
+name: Pluton
+version: 0.1
+author: Beam
+main: de.beam.Pluton.Main.Main
+load: STARTUP
+commands:
+   Pluton:
+     
